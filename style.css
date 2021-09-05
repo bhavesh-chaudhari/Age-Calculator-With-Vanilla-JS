@@ -170,7 +170,11 @@ a{
     text-decoration: none;
 }
 
-@media screen and (max-width:800px) {
+option{
+    background: #111111;
+}
+
+@media screen and (max-width:1000px) {
     .main{
         flex-direction: column;
         width: 90%;
